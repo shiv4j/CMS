@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+hello present branch
+your are correct
 hello feature branch
+your are correct
+>>>>>>> feature
